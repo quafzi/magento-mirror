@@ -1,0 +1,14 @@
+{
+  "name": "magento/core",
+  "type": "magento-core",
+  "description": "Magento Core",
+  "require": {
+    "quafzi/magento-core-installer": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/quafzi/magento-core-installer.git"
+    }
+  ]
+}
