@@ -387,7 +387,8 @@ app/locale/en_US/Mage_Widget.csv app/locale/en_US/Mage_Widget.csv
 app/locale/en_US/Mage_Wishlist.csv app/locale/en_US/Mage_Wishlist.csv
 app/locale/en_US/Mage_XmlConnect.csv app/locale/en_US/Mage_XmlConnect.csv
 app/locale/en_US/Phoenix_Moneybookers.csv app/locale/en_US/Phoenix_Moneybookers.csv
-app/locale/en_US/template app/locale/en_US/template
+app/locale/en_US/template/email/*.html app/locale/en_US/template/email/
+app/locale/en_US/template/email/sales/*.html app/locale/en_US/template/email/sales/
 app/Mage.php app/Mage.php
 api.php api.php
 cron.php cron.php
@@ -430,10 +431,15 @@ js/mage/directpost.js js/mage/directpost.js
 js/mage/translate_inline.css js/mage/translate_inline.css
 js/mage/translate_inline.js js/mage/translate_inline.js
 js/mage/translate.js js/mage/translate.js
-js/prototype js/prototype
+js/prototype/* js/prototype/
 js/scriptaculous js/scriptaculous
 js/spacer.gif js/spacer.gif
-js/tiny_mce js/tiny_mce
+js/tiny_mce/classes/* js/tiny_mce/classes/
+js/tiny_mce/*.js js/tiny_mce/
+js/tiny_mce/langs/*.js js/tiny_mce/langs/
+js/tiny_mce/plugins/* js/tiny_mce/plugins/
+js/tiny_mce/themes/* js/tiny_mce/themes/
+js/tiny_mce/utils/* js/tiny_mce/utils/
 js/varien js/varien
 lib/3Dsecure lib/3Dsecure
 lib/Cm lib/Cm
