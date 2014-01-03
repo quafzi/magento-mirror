@@ -3,7 +3,7 @@
   "type": "magento-core",
   "description": "Magento Core",
   "require": {
-    "quafzi/magento-core-installer": "dev-master"
+    "quafzi/magento-core-installer": "*"
   },
   "repositories": [
     {
