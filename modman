@@ -457,8 +457,6 @@ LICENSE_AFL.txt LICENSE_AFL.txt
 LICENSE.html LICENSE.html
 LICENSE.txt LICENSE.txt
 mage mage
-media/dhl/logo.jpg media/dhl/logo.jpg
-media/xmlconnect media/xmlconnect
 php.ini.sample php.ini.sample
 pkginfo/Mage_All_Latest.txt pkginfo/Mage_All_Latest.txt
 pkginfo/Mage_All.txt pkginfo/Mage_All.txt
