@@ -1162,9 +1162,9 @@ skin/frontend/default/iphone/js/iphone.js skin/frontend/default/iphone/js/iphone
 skin/frontend/default/iphone/js/modernizr.js skin/frontend/default/iphone/js/modernizr.js
 skin/frontend/base/default/lib/prototype skin/frontend/base/default/lib/prototype
 skin/install skin/install
-core/pkginfo/.htaccess core/pkginfo/.htaccess
-core/app/.htaccess core/app/.htaccess
-core/errors/.htaccess core/errors/.htaccess
-core/lib/.htaccess core/lib/.htaccess
-core/downloader/template/.htaccess core/downloader/template/.htaccess
-core/downloader/.htaccess core/downloader/.htaccess
+pkginfo/.htaccess pkginfo/.htaccess
+app/.htaccess app/.htaccess
+errors/.htaccess errors/.htaccess
+lib/.htaccess lib/.htaccess
+downloader/template/.htaccess downloader/template/.htaccess
+downloader/.htaccess downloader/.htaccess
